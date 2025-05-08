@@ -1,4 +1,4 @@
-
+```md
  表三：性能指标 → 写到 docs/performance.md
 你可以新建一个文件 docs/performance.md，记录比如：
 
